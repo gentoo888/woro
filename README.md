@@ -1,5 +1,5 @@
 ### 📚 woro
-A game which helps you to memorise foreign words and their translations easier
+A game which helps you to memorise foreign words and their translations easier. Written on Rust 🦀
 
 ##  Features
 - Add words manually or import from TXT  
